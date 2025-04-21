@@ -1,0 +1,60 @@
+1000  31000  3 Texas
+1042  12180.06  3 Texas
+1062  13240.45  2 Texas
+1200  36000  2 Maryland
+1327  19800.56  2 Alaska
+1483  22458.23  7 Texas
+1900  17000.09  3 Washington
+2000  16910.00  2 Vermont
+2112  23125  4 Alaska
+2500  20001  5 Hawaii
+3000  21330.00  3 Texas
+3210   13200  1 Minnesota
+3600  77500  4 California
+3601  11970  2 Illinois
+4000  25750.00 4 Florida
+4724   8900  3 Oklahoma
+6217  45000.70  2 Texas
+9280   6200  1 Vermont
+5000  30170.00 2 Hawaii
+5100  30170.05 5 Arkansas
+5601  51970  9 Illinois
+5724  66900  3 Florida
+5217  10002.68  2 Texas
+5280  70000  1 Washington
+5000 100000  10 Hawaii
+5200  25000.4  3 Texas
+5230 120000  6 California
+6641  85000  7 Alaska
+7000  45500  4 Maryland
+7100  56500  3 Illinois
+7205 50100.65 8 Arkansas
+7210 270015.9  4 Texas
+7340 70100.25 9 Iowa
+7301  67590.40 6 Texas
+7420 35000.58 8 Arkansas
+7500 22000.69 4 Iowa
+7560 19490.00 1 Hawaii
+7720 55490.00 4 Pennsylvania
+7800 66550.45 3 Iowa
+7900 65000.95 5 Texas
+8100 38005.93  6  Michigan
+8120 190065.9  4 Minnesota
+8210 18005.29  6 Mississippi
+8250 170005.34  12 Missouri
+8320 10005.44  8 Montana
+8450 126005.65  10 Nebraska
+8460 20005.78  9 Nevada
+8500 110005.9  2 New Hampshire
+9100 35005.2  4 New Jersey
+9200 110005.59  8 New Mexico
+9300 45005.9  7 New York
+9400 150005.45  5 North Carolina
+9500 19005.9  6 North Dakota
+9600 37005.55  4 Ohio
+9700 18005.9  3  Oklahoma
+9800 130005.9  11 Oregon
+9850 14005.5  1  Pennsylvania
+9860 110005.20  6  Rhode Island
+9910 22065.95  2  South Carolina
+9920 210005.85  8  New York
